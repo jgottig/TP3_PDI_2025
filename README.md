@@ -13,7 +13,7 @@ Ademas, utilizamos librerías nativas de Python
 
 Para su ejecución, Abrir su IDE Favorito. En algunos casos recomendamos que utilice la versión de Python 3.10 (Dado que OpenCV puede tener fallas en Versiones 3.11 +)
 
-Consideraciones para ambas ejecuciones:
+Consideraciones para la ejecución:
 Para su ejecución, solo debe dar "Play" al archivo "tiradas.py" en su IDE, RUN, o bien ejecutar el código principal por consola. A medida que el codigo se va ejecutando, 
 Se irán reproduciendo los videos en una ventana, y a su vez, en back, se estarán procesando las imagenes para detectar los dados y sus valores.
 Aguarde a que finalicen de reproducirse los 4 videos automaticamente y luego revise la carpeta "tiradas_salida" que se creó dentro del mismo proyecto.
